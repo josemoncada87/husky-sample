@@ -1,0 +1,25 @@
+{
+  "name": "husky-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemoncada87/husky-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josemoncada87/husky-sample/issues"
+  },
+  "homepage": "https://github.com/josemoncada87/husky-sample#readme",
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "jest": "^28.1.0"
+  }
+}
