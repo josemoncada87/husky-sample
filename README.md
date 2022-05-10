@@ -1,1 +1,1 @@
-# husky.-sample
+# husky-sample
